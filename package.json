@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-starter-hello-world",
+  "description": "Gatsby hello world starter",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "emotion": "^9.2.8",
+    "emotion-server": "^9.2.8",
+    "gatsby": "next",
+    "gatsby-plugin-emotion": "^1.1.17",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-emotion": "^9.2.8"
+  }
+}
